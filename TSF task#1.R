@@ -24,3 +24,6 @@ prediction
 point<-data.frame(x=9.25)
 result<-predict(model,point)
 result
+
+#so the predicted score of the student is 92.90985 if he studies 9.25 hrs/day.
+######
